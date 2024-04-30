@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "salflet_Examen_Programacion/1.0.0": {
+        "runtime": {
+          "salflet_Examen_Programacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "salflet_Examen_Programacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

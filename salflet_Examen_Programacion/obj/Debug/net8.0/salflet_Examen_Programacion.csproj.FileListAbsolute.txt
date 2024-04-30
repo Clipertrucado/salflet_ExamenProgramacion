@@ -1,0 +1,14 @@
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\obj\Debug\net8.0\salflet_Examen_Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\obj\Debug\net8.0\salflet_Examen_Programacion.AssemblyInfoInputs.cache
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\obj\Debug\net8.0\salflet_Examen_Programacion.AssemblyInfo.cs
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\obj\Debug\net8.0\salflet_Examen_Programacion.csproj.CoreCompileInputs.cache
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\bin\Debug\net8.0\salflet_Examen_Programacion.exe
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\bin\Debug\net8.0\salflet_Examen_Programacion.deps.json
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\bin\Debug\net8.0\salflet_Examen_Programacion.runtimeconfig.json
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\bin\Debug\net8.0\salflet_Examen_Programacion.dll
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\bin\Debug\net8.0\salflet_Examen_Programacion.pdb
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\obj\Debug\net8.0\salflet_Examen_Programacion.dll
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\obj\Debug\net8.0\refint\salflet_Examen_Programacion.dll
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\obj\Debug\net8.0\salflet_Examen_Programacion.pdb
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\obj\Debug\net8.0\salflet_Examen_Programacion.genruntimeconfig.cache
+C:\Users\csi23-salflet\source\repos\salflet_Examen_Programacion\obj\Debug\net8.0\ref\salflet_Examen_Programacion.dll
